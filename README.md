@@ -31,7 +31,7 @@ engineering professional ready to make my mark on your organization.
 ---
 <!-- BLOG-POST-LIST:END -->
 
-<img align="left" alt="VenatiHimanth Github Stats" src="https://github-readme-stats.vercel.app/api?username=VenatiHimanth&show_icons=true&hide_border=true" />
+<img align="left" alt="Himanth-Venati Github Stats" src="https://github-readme-stats.vercel.app/api?username=Himanth-Venati&show_icons=true&hide_border=true" />
 
 
 
